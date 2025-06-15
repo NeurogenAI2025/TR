@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+ethena,0.29120926735350444,0.2993732083810743,0.008163941027569843,2025-06-16

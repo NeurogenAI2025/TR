@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+bitget-token,4.692134007795449,4.522749499820082,0.16938450797536664,2025-06-16

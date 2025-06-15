@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+algorand,0.20574489421765896,0.17685577646762296,0.028889117750035997,2025-06-16

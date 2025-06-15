@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+first-digital-usd,0.9984083733383715,0.9981255755006305,0.000282797837740989,2025-06-16

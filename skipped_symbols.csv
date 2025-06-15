@@ -1,0 +1,173 @@
+symbol,error
+aave,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+algorand,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+aptos,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+arbitrum,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+avalanche-2,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+binance-bridged-usdt-bnb-smart-chain,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+binance-peg-weth,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+binance-staked-sol,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+binancecoin,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+bitcoin-cash,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+bitcoin,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+bitget-token,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+bittensor,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+blockstack,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+cardano,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+celestia,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+chainlink,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+coinbase-wrapped-btc,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+cosmos,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+crypto-com-chain,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+dai,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+dogecoin,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+ethena-staked-usde,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+ethena,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+ethereum-classic,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+ethereum,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+fartcoin,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+fasttoken,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+fetch-ai,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+filecoin,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+first-digital-usd,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+flare-networks,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+gatechain-token,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+hedera-hashgraph,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+hyperliquid,[Errno 2] No such file or directory: 'crypto_csv_data\\hyperliquid.csv'
+injective-protocol,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+internet-computer,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+jito-staked-sol,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+jupiter-exchange-solana,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+jupiter-perpetuals-liquidity-provider-token,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+kaspa,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+kelp-dao-restaked-eth,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+kucoin-shares,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+leo-token,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+litecoin,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+lombard-staked-btc,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+mantle-staked-ether,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+mantle,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+monero,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+near,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+nexo,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+okb,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+ondo-finance,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+optimism,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+paypal-usd,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+pepe,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+polkadot,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+polygon-bridged-usdt-polygon,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+polygon-ecosystem-token,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+quant-network,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+render-token,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+ripple,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+rocket-pool-eth,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+sei-network,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+shiba-inu,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+sky,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+solana,[Errno 2] No such file or directory: 'crypto_csv_data\\solana.csv'
+spx6900,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+staked-ether,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+stakewise-v3-oseth,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+stellar,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+sui,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+tether,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+the-open-network,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+tron,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+uniswap,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+usd-coin,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+usds,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+vechain,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+virtual-protocol,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+weth,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+whitebit,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+worldcoin-wld,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+wrapped-bitcoin,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+wrapped-eeth,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+wrapped-steth,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."
+xdce-crowd-sale,"Error(s) in loading state_dict for PriceTransformer:
+	size mismatch for embedding.weight: copying a param with shape torch.Size([128, 8]) from checkpoint, the shape in current model is torch.Size([128, 10])."

@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+fetch-ai,0.6395383624836326,0.6689098167862741,0.029371454302641542,2025-06-15

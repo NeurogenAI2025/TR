@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+avalanche-2,19.495902790570554,18.99247099681746,0.5034317937530943,2025-06-16

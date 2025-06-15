@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+arbitrum,0.3120369831933466,0.3278296770610344,0.01579269386768778,2025-06-16

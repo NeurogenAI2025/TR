@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+jupiter-exchange-solana,0.42611840020322056,0.41731619056284824,0.008802209640372316,2025-06-16

@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+coinbase-wrapped-btc,97523.86723793189,105013.50711206495,7489.639874133063,2025-06-15

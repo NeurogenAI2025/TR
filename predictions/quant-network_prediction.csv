@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+quant-network,84.78434621753082,105.62342071743312,20.839074499902296,2025-06-16

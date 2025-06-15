@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+filecoin,2.4632567118914688,2.407345227918025,0.05591148397344359,2025-06-16

@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+flare-networks,0.016180985543671367,0.01812452582403128,0.001943540280359913,2025-06-16

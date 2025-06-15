@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+wrapped-steth,2427.5720838205766,3065.0159928095277,637.4439089889511,2025-06-16

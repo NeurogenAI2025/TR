@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+ethena-usde,0.9998888940873529,1.0001509555635024,0.0002620614761494888,2025-06-16

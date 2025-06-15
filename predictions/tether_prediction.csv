@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+tether,1.0001537573063854,1.000144057422383,9.699884002456471e-06,2025-06-16

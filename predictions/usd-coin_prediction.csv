@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+usd-coin,0.9998449221457693,0.9997994548727112,4.546727305809739e-05,2025-06-16

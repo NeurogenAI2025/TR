@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+mantle,0.6896100655675186,0.6276891648249325,0.06192090074258605,2025-06-16

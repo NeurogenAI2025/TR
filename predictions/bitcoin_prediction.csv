@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+bitcoin,95533.19759525027,105435.25905739483,9902.061462144557,2025-06-16

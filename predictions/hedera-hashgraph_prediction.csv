@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+hedera-hashgraph,0.16238739778434463,0.15885135358122043,0.0035360442031242,2025-06-15

@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+polygon-bridged-usdt-polygon,0.9999501474183201,0.9999128038097965,3.734360852358787e-05,2025-06-16

@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+blockstack,0.6328703547479625,0.6209592477577832,0.011911106990179277,2025-06-16

@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+pepe,1.0668475050859862e-05,1.0805308703049144e-05,1.3683365218928116e-07,2025-06-14

@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+binance-peg-weth,2106.099863526295,2533.8935839829123,427.7937204566174,2025-06-15

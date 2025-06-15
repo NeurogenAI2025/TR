@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+stellar,0.25566538815938133,0.25842251031104435,0.0027571221516630162,2025-06-16

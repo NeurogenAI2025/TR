@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+ethereum,2191.698778466914,2540.180607833419,348.4818293665048,2025-06-16

@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+dai,0.9998452762687287,0.9994659929515208,0.0003792833172078236,2025-06-16

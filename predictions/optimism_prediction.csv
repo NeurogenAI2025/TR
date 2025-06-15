@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+optimism,0.7764451373583168,0.5863884481130367,0.19005668924528007,2025-06-16

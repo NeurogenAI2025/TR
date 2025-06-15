@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+chainlink,14.188680472902202,13.181911788075924,1.0067686848262785,2025-06-16

@@ -1,0 +1,2 @@
+symbol,predicted_close,true_close,error_abs,predicted_date
+cardano,0.7016063297536601,0.6308538953091154,0.07075243444454471,2025-06-16
